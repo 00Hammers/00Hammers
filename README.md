@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @00Hammers
-- Fascinated by Machine Learning and Data Science
+- Im a curious person, fascinated by data
 <!--- 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
