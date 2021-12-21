@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @00Hammers
-- Im a curious person and programmer fascinated by data
+- I'm a curious person and programmer fascinated by data
 <!--- 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
