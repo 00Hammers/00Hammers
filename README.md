@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @00Hammers
+- 👋 Hi, I’m @00Hammers but you can call me Chris(tian)
 - I'm a curious person and programmer fascinated by data
 <!--- 
 - 👀 I’m interested in ...
