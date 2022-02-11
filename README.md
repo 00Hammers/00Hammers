@@ -1,5 +1,7 @@
 Hi, I’m @00Hammers, but you can call me Chris.
+
 I'm a curious programmer fascinated by data and math (which doesn't necessary mean I'm good at it).
+
 I’m currently learning Kotlin for Android developement, getting a grasp on some APIs, and falling in love with APL!
 <!--- 
 - 👀 I’m interested in ...
