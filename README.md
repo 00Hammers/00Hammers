@@ -2,7 +2,7 @@ Hi, I’m @00Hammers, but you can call me Chris.
 
 I'm a curious programmer fascinated by math and data.
 
-I’m currently falling in love with Haskell and APL!
+Falling in love with Haskell and APL!
 <!--- 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
